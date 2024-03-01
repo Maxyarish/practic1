@@ -1,0 +1,44 @@
+
+
+
+h1 ,
+h2 ,
+h3 ,
+h4 ,
+h5 {
+    text-align: center;
+    color:rgb(0, 174, 255);
+}
+
+p {
+    text-align: center;
+}
+
+.yellow{
+    color:rgb(255, 157, 0);
+    font-size: 36px;
+}
+
+
+caption {
+    color:rgb(56, 111, 228)
+}
+
+.italic {
+    color:rgb(0, 123, 255);
+    font-style: italic;
+    
+}
+.main-title {
+height: 512px;
+
+    background-color:rgb(27, 115, 215);
+    color:rgb(174, 179, 183);
+    background-image: url(./assets/image/60423972b0a20.jpg);
+    background-repeat: no-repeat;
+    background-position:center;
+    background-size:cover;
+
+    font-size: 48px;
+    letter-spacing: 5px;
+}
